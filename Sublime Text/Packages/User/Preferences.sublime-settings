@@ -1,0 +1,12 @@
+{
+	"theme": "auto",
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_size": 20,
+	"show_panel_on_build": true,
+	"save_on_focus_lost": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+}
